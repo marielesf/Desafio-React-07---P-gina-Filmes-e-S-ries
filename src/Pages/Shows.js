@@ -9,17 +9,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
-  div{
-    list-style: none;
-    display: flex;
-    width: 100%;
-    height:15%; 
-    font-size: 50px;
-    text-align: center;
-    justify-content: space-evenly;
-    background-color: black;
-    color: white;
-  }
+
   `;
 
 const Container = styled.div`
